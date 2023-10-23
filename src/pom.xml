@@ -53,13 +53,13 @@
     </ciManagement>
 
     <modules>
-        <module>bom</module>
+        <!--<module>bom</module>-->
         <module>xwork-core</module>
-        <module>core</module>
+        <!--<module>core</module>-->
         <module>apps</module>
         <module>plugins</module>
-        <module>bundles</module>
-        <module>archetypes</module>
+        <!--<module>bundles</module>-->
+        <!--<module>archetypes</module>-->
     </modules>
 
     <licenses>
@@ -94,6 +94,7 @@
     </properties>
 
     <profiles>
+        <!--
         <profile>
             <id>includeAssembly</id>
             <activation>
@@ -105,6 +106,7 @@
                 <module>assembly</module>
             </modules>
         </profile>
+        -->
         <profile>
             <id>struts-annotations</id>
             <modules>

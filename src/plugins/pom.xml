@@ -38,7 +38,7 @@
         <module>codebehind</module>
         <module>config-browser</module>
         <module>convention</module>
-        <module>dojo</module>
+        <!--<module>dojo</module>-->
         <module>dwr</module>
         <module>embeddedjsp</module>
         <module>gxp</module>
@@ -53,7 +53,7 @@
         <module>oval</module>
         <module>pell-multipart</module>
         <module>plexus</module>
-        <module>portlet</module>
+        <!--<module>portlet</module>-->
         <module>portlet-tiles</module>
         <module>rest</module>
         <module>sitegraph</module>
