@@ -1,3 +1,11 @@
+This is an active branch of Struts 2.3 which is no longer mainained by the Apache community.
+
+We rely on this for several legacy applications which are still in operation.
+
+The Maven build has been updated to ignore modules that don't [build out-of-the
+box](https://github.com/ISLEcode/struts2/commit/5401171e3f2d36e482e70eba3fa67622109f334d).
+
+```
 [INFO] ------------------------------------------------------------------------
 [INFO] Reactor Summary for Struts 2 2.3.37:
 [INFO]
@@ -40,3 +48,4 @@
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
+```
