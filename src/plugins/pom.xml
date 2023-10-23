@@ -45,7 +45,7 @@
         <module>jasperreports</module>
         <module>java8-support</module>
         <module>javatemplates</module>
-        <module>jfreechart</module>
+        <!--<module>jfreechart</module>-->
         <module>jsf</module>
         <module>json</module>
         <module>junit</module>
