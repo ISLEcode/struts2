@@ -1,3 +1,7 @@
+### Apache Struts 2.3
+
+![example workflow](https://github.com/ISLEcode/struts2/actions/workflows/build.yml/badge.svg)
+
 This is an active branch of Struts 2.3 which is no longer mainained by the Apache community.
 
 We rely on this for several legacy applications which are still in operation.
